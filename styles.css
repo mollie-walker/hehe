@@ -11,6 +11,7 @@
   background-color:  navy;
   width: 100%;
   font-size: 16px;
+  position: fixed;
   }
  .nav-bar ul {
   list-style: none;
@@ -50,30 +51,18 @@
 
     background-size: cover;
   background-repeat: no-repeat;
- color: black;
 }
-
 .hero-content {
-
-  width: 80%;
-  margin: 0 auto;
+  font-size: 50px;
   text-align: center;
-  height: 60vh;
-  position: relative;
-  top: 30%;
 }
-
-.hero-content h1 {
-  font-size: 100px;
+h1 {
+  padding-top: 20%;
 }
-
-.hero-content p {
-  font-size: 30px;
-  width: 60%;
-  margin: 0 auto;
+footer {
+  text-align: center;
+  margin-top: 10%;
 }
-
-.hero-content hr {
-  width: 60%;
-  margin: 0 auto;
+.container {
+  padding: 10%;
 }
