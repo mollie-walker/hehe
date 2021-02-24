@@ -67,5 +67,8 @@ footer {
   padding: 10%;
 }
 .game {
-  margin: 10%;
+  margin-top: 5%;
+}
+h2 {
+  font-size: 29px;
 }
