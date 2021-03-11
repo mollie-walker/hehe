@@ -72,3 +72,18 @@ footer {
 h2 {
   font-size: 29px;
 }
+/* GALLERY CSS */
+.gallery-container {
+  
+  display: flex;
+  
+}
+ 
+ .image {
+  height: 200px;
+  border-radius: 15px;
+  margin: 40px;
+  text-align: center;
+
+}
+
