@@ -47,7 +47,7 @@
 
 .hero {
   height: 80vh;
-  background: url(https://images.unsplash.com/photo-1438183972690-6d4658e3290e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1934&q=80) center;
+  background-image: url(https://images.squarespace-cdn.com/content/v1/5b02186afcf7fdd9101774c4/1592838476881-2X8C96WWIM8RJSRX1VJT/ke17ZwdGBToddI8pDm48kHilYxHgo5pd2DczB5brOCQUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2djFQkAl81r3lGal7WreTKa0f2v-LTT6-aHhf2hEirDJACjLISwBs8eEdxAxTptZAUg/RainbowDesktopBackground.png) ;
 
     background-size: cover;
   background-repeat: no-repeat;
@@ -72,18 +72,3 @@ footer {
 h2 {
   font-size: 29px;
 }
-/* GALLERY CSS */
-.gallery-container {
-  
-  display: flex;
-  
-}
- 
- .image {
-  height: 200px;
-  border-radius: 15px;
-  margin: 40px;
-  text-align: center;
-
-}
-
