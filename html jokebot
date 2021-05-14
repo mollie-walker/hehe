@@ -1,0 +1,12 @@
+<html>
+
+<head>
+  <title>My Joke Bot</title>
+</head>
+
+<body>
+  <h1>Click hear a Joke!</h1>
+  <button onclick="commit()">Talk to JokeBot</button>
+</body>
+
+</html>
