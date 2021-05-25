@@ -43,8 +43,6 @@
   border-radius: 40px;
 }
 
-/* HERO */
-
 .hero {
   height: 80vh;
   background: url(https://images.squarespace-cdn.com/content/v1/5b02186afcf7fdd9101774c4/1592838476881-2X8C96WWIM8RJSRX1VJT/ke17ZwdGBToddI8pDm48kHilYxHgo5pd2DczB5brOCQUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2djFQkAl81r3lGal7WreTKa0f2v-LTT6-aHhf2hEirDJACjLISwBs8eEdxAxTptZAUg/RainbowDesktopBackground.png)center top 50px ;
@@ -86,17 +84,7 @@ footer {
 .container {
   padding: 10%;
 }
-/* GALLERY CSS */
-.gallery-container {
-  
-  display: flex;
-  
-}
- 
- .image {
-  height: 200px;
-  border-radius: 15px;
-  margin: 40px;
-  text-align: center;
 
+.iframe {
+  margin-top: 5%;
 }
