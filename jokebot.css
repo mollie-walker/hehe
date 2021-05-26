@@ -13,6 +13,11 @@ button {
   background-color: #ffc4ed;
   border-radius: 50px;
 }
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 .nav-bar {
   height: 60px;
   background-color:  #c1cde8;
